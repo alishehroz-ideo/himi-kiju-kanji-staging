@@ -1,0 +1,7 @@
+Hitofude Brush (600-character subset of Yuji Syuku)
+Copyright 2021 The Yuji Project Authors (https://github.com/Kinutafontfactory/Yuji)
+SIL Open Font License 1.1; see OFL-Yuji.txt.
+Source: https://github.com/google/fonts/tree/main/ofl/yujisyuku
+Original TTF SHA-256: 82728ebafc8c97391e2dab633414a806f344b8e4e2227d307179f07b548fca61
+Modification: subset to the game characters, WOFF2 conversion and internal family renaming.
+The glyph outlines are unchanged.

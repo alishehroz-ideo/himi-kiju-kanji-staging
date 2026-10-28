@@ -1,0 +1,20 @@
+KanjiVG — Kanji Vector Graphics
+Copyright Ulrich Apel and contributors.
+Source: https://github.com/KanjiVG/kanjivg
+Pinned commit: 70a0b7ae0c18ceb5cb358274b029cce0234a43bc
+License: Creative Commons Attribution-ShareAlike 3.0 Unported
+https://creativecommons.org/licenses/by-sa/3.0/
+
+Original SVG files are included unmodified. The core coordinate data in levels.js
+is adapted from those outlines: curves were sampled, mapped to an orthogonal grid,
+and supplemented with gold connector paths for an Euler-trail puzzle.
+Adapted coordinate data is provided under the same CC BY-SA 3.0 license.
+This puzzle does not enforce standard stroke order. See COPYING.txt for the license.
+
+Character pool: https://www.mext.go.jp/a_menu/shotou/cs/1320015.htm
+Archived educational kanji list (1998 curriculum); used as a character pool, not a current grade-alignment claim.
+
+Challenge revision 2: additional edge-disjoint closed auxiliary paths increase
+junctions and route-order decisions. All 600 original core glyph outlines and
+start/end positions are preserved (translated with the board). Questions are
+reordered by the original structural difficulty formula.

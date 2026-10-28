@@ -1,0 +1,4 @@
+@font-face{font-family:"Hitofude Brush";src:url("fonts/hitofude-brush-600.woff2") format("woff2");font-style:normal;font-weight:400;font-display:block}
+.finished-char.calligraphy-char{font-family:"Hitofude Brush","Yu Mincho",serif;font-size:100px;line-height:1.2;font-weight:400;color:#20231f;margin-top:3px}
+.paper:has(canvas[data-completion="complete"]) .board-caption{color:#8b7954}
+.paper:has(canvas[data-completion="complete"]) .board-caption>span:first-child{visibility:hidden}

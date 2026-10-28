@@ -1,0 +1,2408 @@
+{
+  "repository": "https://github.com/KanjiVG/kanjivg",
+  "commit": "70a0b7ae0c18ceb5cb358274b029cce0234a43bc",
+  "mextSource": "https://www.mext.go.jp/a_menu/shotou/cs/1320015.htm",
+  "mextNote": "Archived educational kanji list (1998 curriculum); used as a character pool, not a current grade-alignment claim.",
+  "selected": [
+    {
+      "char": "一",
+      "file": "04e00.svg"
+    },
+    {
+      "char": "己",
+      "file": "05df1.svg"
+    },
+    {
+      "char": "二",
+      "file": "04e8c.svg"
+    },
+    {
+      "char": "八",
+      "file": "0516b.svg"
+    },
+    {
+      "char": "七",
+      "file": "04e03.svg"
+    },
+    {
+      "char": "引",
+      "file": "05f15.svg"
+    },
+    {
+      "char": "丁",
+      "file": "04e01.svg"
+    },
+    {
+      "char": "刀",
+      "file": "05200.svg"
+    },
+    {
+      "char": "人",
+      "file": "04eba.svg"
+    },
+    {
+      "char": "日",
+      "file": "065e5.svg"
+    },
+    {
+      "char": "山",
+      "file": "05c71.svg"
+    },
+    {
+      "char": "十",
+      "file": "05341.svg"
+    },
+    {
+      "char": "口",
+      "file": "053e3.svg"
+    },
+    {
+      "char": "力",
+      "file": "0529b.svg"
+    },
+    {
+      "char": "工",
+      "file": "05de5.svg"
+    },
+    {
+      "char": "久",
+      "file": "04e45.svg"
+    },
+    {
+      "char": "士",
+      "file": "058eb.svg"
+    },
+    {
+      "char": "千",
+      "file": "05343.svg"
+    },
+    {
+      "char": "小",
+      "file": "05c0f.svg"
+    },
+    {
+      "char": "亡",
+      "file": "04ea1.svg"
+    },
+    {
+      "char": "下",
+      "file": "04e0b.svg"
+    },
+    {
+      "char": "上",
+      "file": "04e0a.svg"
+    },
+    {
+      "char": "止",
+      "file": "06b62.svg"
+    },
+    {
+      "char": "干",
+      "file": "05e72.svg"
+    },
+    {
+      "char": "弓",
+      "file": "05f13.svg"
+    },
+    {
+      "char": "大",
+      "file": "05927.svg"
+    },
+    {
+      "char": "入",
+      "file": "05165.svg"
+    },
+    {
+      "char": "犬",
+      "file": "072ac.svg"
+    },
+    {
+      "char": "北",
+      "file": "05317.svg"
+    },
+    {
+      "char": "内",
+      "file": "05185.svg"
+    },
+    {
+      "char": "印",
+      "file": "05370.svg"
+    },
+    {
+      "char": "天",
+      "file": "05929.svg"
+    },
+    {
+      "char": "反",
+      "file": "053cd.svg"
+    },
+    {
+      "char": "方",
+      "file": "065b9.svg"
+    },
+    {
+      "char": "毛",
+      "file": "06bdb.svg"
+    },
+    {
+      "char": "公",
+      "file": "0516c.svg"
+    },
+    {
+      "char": "父",
+      "file": "07236.svg"
+    },
+    {
+      "char": "今",
+      "file": "04eca.svg"
+    },
+    {
+      "char": "片",
+      "file": "07247.svg"
+    },
+    {
+      "char": "古",
+      "file": "053e4.svg"
+    },
+    {
+      "char": "市",
+      "file": "05e02.svg"
+    },
+    {
+      "char": "九",
+      "file": "04e5d.svg"
+    },
+    {
+      "char": "末",
+      "file": "0672b.svg"
+    },
+    {
+      "char": "包",
+      "file": "05305.svg"
+    },
+    {
+      "char": "乱",
+      "file": "04e71.svg"
+    },
+    {
+      "char": "才",
+      "file": "0624d.svg"
+    },
+    {
+      "char": "寸",
+      "file": "05bf8.svg"
+    },
+    {
+      "char": "六",
+      "file": "0516d.svg"
+    },
+    {
+      "char": "川",
+      "file": "05ddd.svg"
+    },
+    {
+      "char": "予",
+      "file": "04e88.svg"
+    },
+    {
+      "char": "土",
+      "file": "0571f.svg"
+    },
+    {
+      "char": "当",
+      "file": "05f53.svg"
+    },
+    {
+      "char": "元",
+      "file": "05143.svg"
+    },
+    {
+      "char": "夫",
+      "file": "0592b.svg"
+    },
+    {
+      "char": "比",
+      "file": "06bd4.svg"
+    },
+    {
+      "char": "本",
+      "file": "0672c.svg"
+    },
+    {
+      "char": "主",
+      "file": "04e3b.svg"
+    },
+    {
+      "char": "太",
+      "file": "0592a.svg"
+    },
+    {
+      "char": "肉",
+      "file": "08089.svg"
+    },
+    {
+      "char": "少",
+      "file": "05c11.svg"
+    },
+    {
+      "char": "目",
+      "file": "076ee.svg"
+    },
+    {
+      "char": "万",
+      "file": "04e07.svg"
+    },
+    {
+      "char": "牛",
+      "file": "0725b.svg"
+    },
+    {
+      "char": "正",
+      "file": "06b63.svg"
+    },
+    {
+      "char": "子",
+      "file": "05b50.svg"
+    },
+    {
+      "char": "局",
+      "file": "05c40.svg"
+    },
+    {
+      "char": "戸",
+      "file": "06238.svg"
+    },
+    {
+      "char": "王",
+      "file": "0738b.svg"
+    },
+    {
+      "char": "分",
+      "file": "05206.svg"
+    },
+    {
+      "char": "申",
+      "file": "07533.svg"
+    },
+    {
+      "char": "穴",
+      "file": "07a74.svg"
+    },
+    {
+      "char": "石",
+      "file": "077f3.svg"
+    },
+    {
+      "char": "可",
+      "file": "053ef.svg"
+    },
+    {
+      "char": "三",
+      "file": "04e09.svg"
+    },
+    {
+      "char": "同",
+      "file": "0540c.svg"
+    },
+    {
+      "char": "兄",
+      "file": "05144.svg"
+    },
+    {
+      "char": "合",
+      "file": "05408.svg"
+    },
+    {
+      "char": "向",
+      "file": "05411.svg"
+    },
+    {
+      "char": "木",
+      "file": "06728.svg"
+    },
+    {
+      "char": "求",
+      "file": "06c42.svg"
+    },
+    {
+      "char": "后",
+      "file": "0540e.svg"
+    },
+    {
+      "char": "代",
+      "file": "04ee3.svg"
+    },
+    {
+      "char": "店",
+      "file": "05e97.svg"
+    },
+    {
+      "char": "夕",
+      "file": "05915.svg"
+    },
+    {
+      "char": "生",
+      "file": "0751f.svg"
+    },
+    {
+      "char": "切",
+      "file": "05207.svg"
+    },
+    {
+      "char": "圧",
+      "file": "05727.svg"
+    },
+    {
+      "char": "旧",
+      "file": "065e7.svg"
+    },
+    {
+      "char": "中",
+      "file": "04e2d.svg"
+    },
+    {
+      "char": "未",
+      "file": "0672a.svg"
+    },
+    {
+      "char": "羽",
+      "file": "07fbd.svg"
+    },
+    {
+      "char": "至",
+      "file": "081f3.svg"
+    },
+    {
+      "char": "仁",
+      "file": "04ec1.svg"
+    },
+    {
+      "char": "功",
+      "file": "0529f.svg"
+    },
+    {
+      "char": "灰",
+      "file": "07070.svg"
+    },
+    {
+      "char": "百",
+      "file": "0767e.svg"
+    },
+    {
+      "char": "机",
+      "file": "0673a.svg"
+    },
+    {
+      "char": "立",
+      "file": "07acb.svg"
+    },
+    {
+      "char": "五",
+      "file": "04e94.svg"
+    },
+    {
+      "char": "行",
+      "file": "0884c.svg"
+    },
+    {
+      "char": "世",
+      "file": "04e16.svg"
+    },
+    {
+      "char": "半",
+      "file": "0534a.svg"
+    },
+    {
+      "char": "月",
+      "file": "06708.svg"
+    },
+    {
+      "char": "玉",
+      "file": "07389.svg"
+    },
+    {
+      "char": "回",
+      "file": "056de.svg"
+    },
+    {
+      "char": "刊",
+      "file": "0520a.svg"
+    },
+    {
+      "char": "庁",
+      "file": "05e81.svg"
+    },
+    {
+      "char": "句",
+      "file": "053e5.svg"
+    },
+    {
+      "char": "永",
+      "file": "06c38.svg"
+    },
+    {
+      "char": "西",
+      "file": "0897f.svg"
+    },
+    {
+      "char": "以",
+      "file": "04ee5.svg"
+    },
+    {
+      "char": "足",
+      "file": "08db3.svg"
+    },
+    {
+      "char": "共",
+      "file": "05171.svg"
+    },
+    {
+      "char": "困",
+      "file": "056f0.svg"
+    },
+    {
+      "char": "居",
+      "file": "05c45.svg"
+    },
+    {
+      "char": "河",
+      "file": "06cb3.svg"
+    },
+    {
+      "char": "手",
+      "file": "0624b.svg"
+    },
+    {
+      "char": "活",
+      "file": "06d3b.svg"
+    },
+    {
+      "char": "浴",
+      "file": "06d74.svg"
+    },
+    {
+      "char": "布",
+      "file": "05e03.svg"
+    },
+    {
+      "char": "午",
+      "file": "05348.svg"
+    },
+    {
+      "char": "四",
+      "file": "056db.svg"
+    },
+    {
+      "char": "寺",
+      "file": "05bfa.svg"
+    },
+    {
+      "char": "宇",
+      "file": "05b87.svg"
+    },
+    {
+      "char": "加",
+      "file": "052a0.svg"
+    },
+    {
+      "char": "区",
+      "file": "0533a.svg"
+    },
+    {
+      "char": "平",
+      "file": "05e73.svg"
+    },
+    {
+      "char": "田",
+      "file": "07530.svg"
+    },
+    {
+      "char": "尺",
+      "file": "05c3a.svg"
+    },
+    {
+      "char": "車",
+      "file": "08eca.svg"
+    },
+    {
+      "char": "耳",
+      "file": "08033.svg"
+    },
+    {
+      "char": "早",
+      "file": "065e9.svg"
+    },
+    {
+      "char": "冊",
+      "file": "0518a.svg"
+    },
+    {
+      "char": "央",
+      "file": "0592e.svg"
+    },
+    {
+      "char": "見",
+      "file": "0898b.svg"
+    },
+    {
+      "char": "全",
+      "file": "05168.svg"
+    },
+    {
+      "char": "助",
+      "file": "052a9.svg"
+    },
+    {
+      "char": "任",
+      "file": "04efb.svg"
+    },
+    {
+      "char": "広",
+      "file": "05e83.svg"
+    },
+    {
+      "char": "左",
+      "file": "05de6.svg"
+    },
+    {
+      "char": "円",
+      "file": "05186.svg"
+    },
+    {
+      "char": "年",
+      "file": "05e74.svg"
+    },
+    {
+      "char": "式",
+      "file": "05f0f.svg"
+    },
+    {
+      "char": "支",
+      "file": "0652f.svg"
+    },
+    {
+      "char": "示",
+      "file": "0793a.svg"
+    },
+    {
+      "char": "沿",
+      "file": "06cbf.svg"
+    },
+    {
+      "char": "利",
+      "file": "05229.svg"
+    },
+    {
+      "char": "危",
+      "file": "05371.svg"
+    },
+    {
+      "char": "東",
+      "file": "06771.svg"
+    },
+    {
+      "char": "声",
+      "file": "058f0.svg"
+    },
+    {
+      "char": "防",
+      "file": "09632.svg"
+    },
+    {
+      "char": "自",
+      "file": "081ea.svg"
+    },
+    {
+      "char": "化",
+      "file": "05316.svg"
+    },
+    {
+      "char": "出",
+      "file": "051fa.svg"
+    },
+    {
+      "char": "不",
+      "file": "04e0d.svg"
+    },
+    {
+      "char": "品",
+      "file": "054c1.svg"
+    },
+    {
+      "char": "弁",
+      "file": "05f01.svg"
+    },
+    {
+      "char": "由",
+      "file": "07531.svg"
+    },
+    {
+      "char": "京",
+      "file": "04eac.svg"
+    },
+    {
+      "char": "呼",
+      "file": "0547c.svg"
+    },
+    {
+      "char": "豆",
+      "file": "08c46.svg"
+    },
+    {
+      "char": "皿",
+      "file": "076bf.svg"
+    },
+    {
+      "char": "在",
+      "file": "05728.svg"
+    },
+    {
+      "char": "非",
+      "file": "0975e.svg"
+    },
+    {
+      "char": "皮",
+      "file": "076ae.svg"
+    },
+    {
+      "char": "欠",
+      "file": "06b20.svg"
+    },
+    {
+      "char": "丸",
+      "file": "04e38.svg"
+    },
+    {
+      "char": "仲",
+      "file": "04ef2.svg"
+    },
+    {
+      "char": "他",
+      "file": "04ed6.svg"
+    },
+    {
+      "char": "束",
+      "file": "0675f.svg"
+    },
+    {
+      "char": "灯",
+      "file": "0706f.svg"
+    },
+    {
+      "char": "因",
+      "file": "056e0.svg"
+    },
+    {
+      "char": "枚",
+      "file": "0679a.svg"
+    },
+    {
+      "char": "似",
+      "file": "04f3c.svg"
+    },
+    {
+      "char": "舌",
+      "file": "0820c.svg"
+    },
+    {
+      "char": "治",
+      "file": "06cbb.svg"
+    },
+    {
+      "char": "告",
+      "file": "0544a.svg"
+    },
+    {
+      "char": "用",
+      "file": "07528.svg"
+    },
+    {
+      "char": "住",
+      "file": "04f4f.svg"
+    },
+    {
+      "char": "国",
+      "file": "056fd.svg"
+    },
+    {
+      "char": "団",
+      "file": "056e3.svg"
+    },
+    {
+      "char": "味",
+      "file": "05473.svg"
+    },
+    {
+      "char": "伝",
+      "file": "04f1d.svg"
+    },
+    {
+      "char": "判",
+      "file": "05224.svg"
+    },
+    {
+      "char": "仕",
+      "file": "04ed5.svg"
+    },
+    {
+      "char": "司",
+      "file": "053f8.svg"
+    },
+    {
+      "char": "制",
+      "file": "05236.svg"
+    },
+    {
+      "char": "写",
+      "file": "05199.svg"
+    },
+    {
+      "char": "地",
+      "file": "05730.svg"
+    },
+    {
+      "char": "図",
+      "file": "056f3.svg"
+    },
+    {
+      "char": "宅",
+      "file": "05b85.svg"
+    },
+    {
+      "char": "画",
+      "file": "0753b.svg"
+    },
+    {
+      "char": "守",
+      "file": "05b88.svg"
+    },
+    {
+      "char": "火",
+      "file": "0706b.svg"
+    },
+    {
+      "char": "米",
+      "file": "07c73.svg"
+    },
+    {
+      "char": "血",
+      "file": "08840.svg"
+    },
+    {
+      "char": "角",
+      "file": "089d2.svg"
+    },
+    {
+      "char": "均",
+      "file": "05747.svg"
+    },
+    {
+      "char": "批",
+      "file": "06279.svg"
+    },
+    {
+      "char": "羊",
+      "file": "07f8a.svg"
+    },
+    {
+      "char": "命",
+      "file": "0547d.svg"
+    },
+    {
+      "char": "言",
+      "file": "08a00.svg"
+    },
+    {
+      "char": "担",
+      "file": "062c5.svg"
+    },
+    {
+      "char": "付",
+      "file": "04ed8.svg"
+    },
+    {
+      "char": "仏",
+      "file": "04ecf.svg"
+    },
+    {
+      "char": "宮",
+      "file": "05bae.svg"
+    },
+    {
+      "char": "辺",
+      "file": "08fba.svg"
+    },
+    {
+      "char": "勇",
+      "file": "052c7.svg"
+    },
+    {
+      "char": "害",
+      "file": "05bb3.svg"
+    },
+    {
+      "char": "死",
+      "file": "06b7b.svg"
+    },
+    {
+      "char": "何",
+      "file": "04f55.svg"
+    },
+    {
+      "char": "往",
+      "file": "05f80.svg"
+    },
+    {
+      "char": "外",
+      "file": "05916.svg"
+    },
+    {
+      "char": "若",
+      "file": "082e5.svg"
+    },
+    {
+      "char": "失",
+      "file": "05931.svg"
+    },
+    {
+      "char": "臣",
+      "file": "081e3.svg"
+    },
+    {
+      "char": "改",
+      "file": "06539.svg"
+    },
+    {
+      "char": "昔",
+      "file": "06614.svg"
+    },
+    {
+      "char": "竹",
+      "file": "07af9.svg"
+    },
+    {
+      "char": "周",
+      "file": "05468.svg"
+    },
+    {
+      "char": "忠",
+      "file": "05fe0.svg"
+    },
+    {
+      "char": "心",
+      "file": "05fc3.svg"
+    },
+    {
+      "char": "必",
+      "file": "05fc5.svg"
+    },
+    {
+      "char": "礼",
+      "file": "0793c.svg"
+    },
+    {
+      "char": "型",
+      "file": "0578b.svg"
+    },
+    {
+      "char": "町",
+      "file": "0753a.svg"
+    },
+    {
+      "char": "会",
+      "file": "04f1a.svg"
+    },
+    {
+      "char": "名",
+      "file": "0540d.svg"
+    },
+    {
+      "char": "官",
+      "file": "05b98.svg"
+    },
+    {
+      "char": "台",
+      "file": "053f0.svg"
+    },
+    {
+      "char": "府",
+      "file": "05e9c.svg"
+    },
+    {
+      "char": "志",
+      "file": "05fd7.svg"
+    },
+    {
+      "char": "州",
+      "file": "05dde.svg"
+    },
+    {
+      "char": "孝",
+      "file": "05b5d.svg"
+    },
+    {
+      "char": "別",
+      "file": "05225.svg"
+    },
+    {
+      "char": "和",
+      "file": "0548c.svg"
+    },
+    {
+      "char": "宗",
+      "file": "05b97.svg"
+    },
+    {
+      "char": "里",
+      "file": "091cc.svg"
+    },
+    {
+      "char": "両",
+      "file": "04e21.svg"
+    },
+    {
+      "char": "花",
+      "file": "082b1.svg"
+    },
+    {
+      "char": "文",
+      "file": "06587.svg"
+    },
+    {
+      "char": "舎",
+      "file": "0820e.svg"
+    },
+    {
+      "char": "性",
+      "file": "06027.svg"
+    },
+    {
+      "char": "武",
+      "file": "06b66.svg"
+    },
+    {
+      "char": "私",
+      "file": "079c1.svg"
+    },
+    {
+      "char": "肥",
+      "file": "080a5.svg"
+    },
+    {
+      "char": "苦",
+      "file": "082e6.svg"
+    },
+    {
+      "char": "処",
+      "file": "051e6.svg"
+    },
+    {
+      "char": "注",
+      "file": "06ce8.svg"
+    },
+    {
+      "char": "否",
+      "file": "05426.svg"
+    },
+    {
+      "char": "逆",
+      "file": "09006.svg"
+    },
+    {
+      "char": "岸",
+      "file": "05cb8.svg"
+    },
+    {
+      "char": "習",
+      "file": "07fd2.svg"
+    },
+    {
+      "char": "形",
+      "file": "05f62.svg"
+    },
+    {
+      "char": "麦",
+      "file": "09ea6.svg"
+    },
+    {
+      "char": "垂",
+      "file": "05782.svg"
+    },
+    {
+      "char": "色",
+      "file": "08272.svg"
+    },
+    {
+      "char": "使",
+      "file": "04f7f.svg"
+    },
+    {
+      "char": "拝",
+      "file": "062dd.svg"
+    },
+    {
+      "char": "規",
+      "file": "0898f.svg"
+    },
+    {
+      "char": "起",
+      "file": "08d77.svg"
+    },
+    {
+      "char": "屋",
+      "file": "05c4b.svg"
+    },
+    {
+      "char": "雨",
+      "file": "096e8.svg"
+    },
+    {
+      "char": "白",
+      "file": "0767d.svg"
+    },
+    {
+      "char": "重",
+      "file": "091cd.svg"
+    },
+    {
+      "char": "個",
+      "file": "0500b.svg"
+    },
+    {
+      "char": "例",
+      "file": "04f8b.svg"
+    },
+    {
+      "char": "去",
+      "file": "053bb.svg"
+    },
+    {
+      "char": "知",
+      "file": "077e5.svg"
+    },
+    {
+      "char": "児",
+      "file": "05150.svg"
+    },
+    {
+      "char": "易",
+      "file": "06613.svg"
+    },
+    {
+      "char": "女",
+      "file": "05973.svg"
+    },
+    {
+      "char": "争",
+      "file": "04e89.svg"
+    },
+    {
+      "char": "先",
+      "file": "05148.svg"
+    },
+    {
+      "char": "打",
+      "file": "06253.svg"
+    },
+    {
+      "char": "応",
+      "file": "05fdc.svg"
+    },
+    {
+      "char": "存",
+      "file": "05b58.svg"
+    },
+    {
+      "char": "休",
+      "file": "04f11.svg"
+    },
+    {
+      "char": "忘",
+      "file": "05fd8.svg"
+    },
+    {
+      "char": "門",
+      "file": "09580.svg"
+    },
+    {
+      "char": "社",
+      "file": "0793e.svg"
+    },
+    {
+      "char": "洗",
+      "file": "06d17.svg"
+    },
+    {
+      "char": "供",
+      "file": "04f9b.svg"
+    },
+    {
+      "char": "枝",
+      "file": "0679d.svg"
+    },
+    {
+      "char": "兆",
+      "file": "05146.svg"
+    },
+    {
+      "char": "消",
+      "file": "06d88.svg"
+    },
+    {
+      "char": "弟",
+      "file": "05f1f.svg"
+    },
+    {
+      "char": "洋",
+      "file": "06d0b.svg"
+    },
+    {
+      "char": "列",
+      "file": "05217.svg"
+    },
+    {
+      "char": "究",
+      "file": "07a76.svg"
+    },
+    {
+      "char": "矢",
+      "file": "077e2.svg"
+    },
+    {
+      "char": "歩",
+      "file": "06b69.svg"
+    },
+    {
+      "char": "囲",
+      "file": "056f2.svg"
+    },
+    {
+      "char": "料",
+      "file": "06599.svg"
+    },
+    {
+      "char": "柱",
+      "file": "067f1.svg"
+    },
+    {
+      "char": "字",
+      "file": "05b57.svg"
+    },
+    {
+      "char": "者",
+      "file": "08005.svg"
+    },
+    {
+      "char": "宣",
+      "file": "05ba3.svg"
+    },
+    {
+      "char": "糸",
+      "file": "07cf8.svg"
+    },
+    {
+      "char": "果",
+      "file": "0679c.svg"
+    },
+    {
+      "char": "美",
+      "file": "07f8e.svg"
+    },
+    {
+      "char": "史",
+      "file": "053f2.svg"
+    },
+    {
+      "char": "首",
+      "file": "09996.svg"
+    },
+    {
+      "char": "陛",
+      "file": "0965b.svg"
+    },
+    {
+      "char": "完",
+      "file": "05b8c.svg"
+    },
+    {
+      "char": "身",
+      "file": "08eab.svg"
+    },
+    {
+      "char": "系",
+      "file": "07cfb.svg"
+    },
+    {
+      "char": "谷",
+      "file": "08c37.svg"
+    },
+    {
+      "char": "幼",
+      "file": "05e7c.svg"
+    },
+    {
+      "char": "気",
+      "file": "06c17.svg"
+    },
+    {
+      "char": "実",
+      "file": "05b9f.svg"
+    },
+    {
+      "char": "交",
+      "file": "04ea4.svg"
+    },
+    {
+      "char": "青",
+      "file": "09752.svg"
+    },
+    {
+      "char": "科",
+      "file": "079d1.svg"
+    },
+    {
+      "char": "菜",
+      "file": "083dc.svg"
+    },
+    {
+      "char": "革",
+      "file": "09769.svg"
+    },
+    {
+      "char": "並",
+      "file": "04e26.svg"
+    },
+    {
+      "char": "南",
+      "file": "05357.svg"
+    },
+    {
+      "char": "則",
+      "file": "05247.svg"
+    },
+    {
+      "char": "院",
+      "file": "09662.svg"
+    },
+    {
+      "char": "英",
+      "file": "082f1.svg"
+    },
+    {
+      "char": "男",
+      "file": "07537.svg"
+    },
+    {
+      "char": "技",
+      "file": "06280.svg"
+    },
+    {
+      "char": "係",
+      "file": "04fc2.svg"
+    },
+    {
+      "char": "済",
+      "file": "06e08.svg"
+    },
+    {
+      "char": "件",
+      "file": "04ef6.svg"
+    },
+    {
+      "char": "札",
+      "file": "0672d.svg"
+    },
+    {
+      "char": "宙",
+      "file": "05b99.svg"
+    },
+    {
+      "char": "程",
+      "file": "07a0b.svg"
+    },
+    {
+      "char": "貝",
+      "file": "08c9d.svg"
+    },
+    {
+      "char": "来",
+      "file": "06765.svg"
+    },
+    {
+      "char": "空",
+      "file": "07a7a.svg"
+    },
+    {
+      "char": "定",
+      "file": "05b9a.svg"
+    },
+    {
+      "char": "決",
+      "file": "06c7a.svg"
+    },
+    {
+      "char": "財",
+      "file": "08ca1.svg"
+    },
+    {
+      "char": "体",
+      "file": "04f53.svg"
+    },
+    {
+      "char": "村",
+      "file": "06751.svg"
+    },
+    {
+      "char": "兵",
+      "file": "05175.svg"
+    },
+    {
+      "char": "唱",
+      "file": "05531.svg"
+    },
+    {
+      "char": "林",
+      "file": "06797.svg"
+    },
+    {
+      "char": "相",
+      "file": "076f8.svg"
+    },
+    {
+      "char": "母",
+      "file": "06bcd.svg"
+    },
+    {
+      "char": "単",
+      "file": "05358.svg"
+    },
+    {
+      "char": "砂",
+      "file": "07802.svg"
+    },
+    {
+      "char": "負",
+      "file": "08ca0.svg"
+    },
+    {
+      "char": "栄",
+      "file": "06804.svg"
+    },
+    {
+      "char": "員",
+      "file": "054e1.svg"
+    },
+    {
+      "char": "低",
+      "file": "04f4e.svg"
+    },
+    {
+      "char": "俳",
+      "file": "04ff3.svg"
+    },
+    {
+      "char": "坂",
+      "file": "05742.svg"
+    },
+    {
+      "char": "発",
+      "file": "0767a.svg"
+    },
+    {
+      "char": "右",
+      "file": "053f3.svg"
+    },
+    {
+      "char": "無",
+      "file": "07121.svg"
+    },
+    {
+      "char": "刷",
+      "file": "05237.svg"
+    },
+    {
+      "char": "郡",
+      "file": "090e1.svg"
+    },
+    {
+      "char": "液",
+      "file": "06db2.svg"
+    },
+    {
+      "char": "赤",
+      "file": "08d64.svg"
+    },
+    {
+      "char": "要",
+      "file": "08981.svg"
+    },
+    {
+      "char": "秒",
+      "file": "079d2.svg"
+    },
+    {
+      "char": "卒",
+      "file": "05352.svg"
+    },
+    {
+      "char": "点",
+      "file": "070b9.svg"
+    },
+    {
+      "char": "曲",
+      "file": "066f2.svg"
+    },
+    {
+      "char": "売",
+      "file": "058f2.svg"
+    },
+    {
+      "char": "各",
+      "file": "05404.svg"
+    },
+    {
+      "char": "光",
+      "file": "05149.svg"
+    },
+    {
+      "char": "労",
+      "file": "052b4.svg"
+    },
+    {
+      "char": "有",
+      "file": "06709.svg"
+    },
+    {
+      "char": "物",
+      "file": "07269.svg"
+    },
+    {
+      "char": "泳",
+      "file": "06cf3.svg"
+    },
+    {
+      "char": "走",
+      "file": "08d70.svg"
+    },
+    {
+      "char": "老",
+      "file": "08001.svg"
+    },
+    {
+      "char": "音",
+      "file": "097f3.svg"
+    },
+    {
+      "char": "草",
+      "file": "08349.svg"
+    },
+    {
+      "char": "夜",
+      "file": "0591c.svg"
+    },
+    {
+      "char": "星",
+      "file": "0661f.svg"
+    },
+    {
+      "char": "波",
+      "file": "06ce2.svg"
+    },
+    {
+      "char": "許",
+      "file": "08a31.svg"
+    },
+    {
+      "char": "固",
+      "file": "056fa.svg"
+    },
+    {
+      "char": "芽",
+      "file": "082bd.svg"
+    },
+    {
+      "char": "荷",
+      "file": "08377.svg"
+    },
+    {
+      "char": "冷",
+      "file": "051b7.svg"
+    },
+    {
+      "char": "博",
+      "file": "0535a.svg"
+    },
+    {
+      "char": "話",
+      "file": "08a71.svg"
+    },
+    {
+      "char": "毒",
+      "file": "06bd2.svg"
+    },
+    {
+      "char": "約",
+      "file": "07d04.svg"
+    },
+    {
+      "char": "成",
+      "file": "06210.svg"
+    },
+    {
+      "char": "想",
+      "file": "060f3.svg"
+    },
+    {
+      "char": "卵",
+      "file": "05375.svg"
+    },
+    {
+      "char": "故",
+      "file": "06545.svg"
+    },
+    {
+      "char": "旅",
+      "file": "065c5.svg"
+    },
+    {
+      "char": "険",
+      "file": "0967a.svg"
+    },
+    {
+      "char": "貿",
+      "file": "08cbf.svg"
+    },
+    {
+      "char": "株",
+      "file": "0682a.svg"
+    },
+    {
+      "char": "罪",
+      "file": "07f6a.svg"
+    },
+    {
+      "char": "所",
+      "file": "06240.svg"
+    },
+    {
+      "char": "岩",
+      "file": "05ca9.svg"
+    },
+    {
+      "char": "厚",
+      "file": "0539a.svg"
+    },
+    {
+      "char": "政",
+      "file": "0653f.svg"
+    },
+    {
+      "char": "余",
+      "file": "04f59.svg"
+    },
+    {
+      "char": "汽",
+      "file": "06c7d.svg"
+    },
+    {
+      "char": "堂",
+      "file": "05802.svg"
+    },
+    {
+      "char": "息",
+      "file": "0606f.svg"
+    },
+    {
+      "char": "研",
+      "file": "07814.svg"
+    },
+    {
+      "char": "専",
+      "file": "05c02.svg"
+    },
+    {
+      "char": "事",
+      "file": "04e8b.svg"
+    },
+    {
+      "char": "受",
+      "file": "053d7.svg"
+    },
+    {
+      "char": "推",
+      "file": "063a8.svg"
+    },
+    {
+      "char": "街",
+      "file": "08857.svg"
+    },
+    {
+      "char": "挙",
+      "file": "06319.svg"
+    },
+    {
+      "char": "災",
+      "file": "0707d.svg"
+    },
+    {
+      "char": "快",
+      "file": "05feb.svg"
+    },
+    {
+      "char": "材",
+      "file": "06750.svg"
+    },
+    {
+      "char": "病",
+      "file": "075c5.svg"
+    },
+    {
+      "char": "仮",
+      "file": "04eee.svg"
+    },
+    {
+      "char": "面",
+      "file": "09762.svg"
+    },
+    {
+      "char": "映",
+      "file": "06620.svg"
+    },
+    {
+      "char": "尊",
+      "file": "05c0a.svg"
+    },
+    {
+      "char": "座",
+      "file": "05ea7.svg"
+    },
+    {
+      "char": "問",
+      "file": "0554f.svg"
+    },
+    {
+      "char": "探",
+      "file": "063a2.svg"
+    },
+    {
+      "char": "組",
+      "file": "07d44.svg"
+    },
+    {
+      "char": "宝",
+      "file": "05b9d.svg"
+    },
+    {
+      "char": "弱",
+      "file": "05f31.svg"
+    },
+    {
+      "char": "都",
+      "file": "090fd.svg"
+    },
+    {
+      "char": "採",
+      "file": "063a1.svg"
+    },
+    {
+      "char": "損",
+      "file": "0640d.svg"
+    },
+    {
+      "char": "良",
+      "file": "0826f.svg"
+    },
+    {
+      "char": "幸",
+      "file": "05e78.svg"
+    },
+    {
+      "char": "拾",
+      "file": "062fe.svg"
+    },
+    {
+      "char": "季",
+      "file": "05b63.svg"
+    },
+    {
+      "char": "的",
+      "file": "07684.svg"
+    },
+    {
+      "char": "具",
+      "file": "05177.svg"
+    },
+    {
+      "char": "典",
+      "file": "05178.svg"
+    },
+    {
+      "char": "紅",
+      "file": "07d05.svg"
+    },
+    {
+      "char": "転",
+      "file": "08ee2.svg"
+    },
+    {
+      "char": "芸",
+      "file": "082b8.svg"
+    },
+    {
+      "char": "食",
+      "file": "098df.svg"
+    },
+    {
+      "char": "悪",
+      "file": "060aa.svg"
+    },
+    {
+      "char": "松",
+      "file": "0677e.svg"
+    },
+    {
+      "char": "登",
+      "file": "0767b.svg"
+    },
+    {
+      "char": "軍",
+      "file": "08ecd.svg"
+    },
+    {
+      "char": "提",
+      "file": "063d0.svg"
+    },
+    {
+      "char": "現",
+      "file": "073fe.svg"
+    },
+    {
+      "char": "酒",
+      "file": "09152.svg"
+    },
+    {
+      "char": "帯",
+      "file": "05e2f.svg"
+    },
+    {
+      "char": "着",
+      "file": "07740.svg"
+    },
+    {
+      "char": "窓",
+      "file": "07a93.svg"
+    },
+    {
+      "char": "照",
+      "file": "07167.svg"
+    },
+    {
+      "char": "昼",
+      "file": "0663c.svg"
+    },
+    {
+      "char": "姉",
+      "file": "059c9.svg"
+    },
+    {
+      "char": "段",
+      "file": "06bb5.svg"
+    },
+    {
+      "char": "投",
+      "file": "06295.svg"
+    },
+    {
+      "char": "原",
+      "file": "0539f.svg"
+    },
+    {
+      "char": "従",
+      "file": "05f93.svg"
+    },
+    {
+      "char": "脈",
+      "file": "08108.svg"
+    },
+    {
+      "char": "降",
+      "file": "0964d.svg"
+    },
+    {
+      "char": "葉",
+      "file": "08449.svg"
+    },
+    {
+      "char": "賀",
+      "file": "08cc0.svg"
+    },
+    {
+      "char": "席",
+      "file": "05e2d.svg"
+    },
+    {
+      "char": "湯",
+      "file": "06e6f.svg"
+    },
+    {
+      "char": "馬",
+      "file": "099ac.svg"
+    },
+    {
+      "char": "殺",
+      "file": "06bba.svg"
+    },
+    {
+      "char": "建",
+      "file": "05efa.svg"
+    },
+    {
+      "char": "安",
+      "file": "05b89.svg"
+    },
+    {
+      "char": "衣",
+      "file": "08863.svg"
+    },
+    {
+      "char": "針",
+      "file": "091dd.svg"
+    },
+    {
+      "char": "友",
+      "file": "053cb.svg"
+    },
+    {
+      "char": "査",
+      "file": "067fb.svg"
+    },
+    {
+      "char": "板",
+      "file": "0677f.svg"
+    },
+    {
+      "char": "法",
+      "file": "06cd5.svg"
+    },
+    {
+      "char": "再",
+      "file": "0518d.svg"
+    },
+    {
+      "char": "討",
+      "file": "08a0e.svg"
+    },
+    {
+      "char": "独",
+      "file": "072ec.svg"
+    },
+    {
+      "char": "耕",
+      "file": "08015.svg"
+    },
+    {
+      "char": "肺",
+      "file": "080ba.svg"
+    },
+    {
+      "char": "拡",
+      "file": "062e1.svg"
+    },
+    {
+      "char": "飛",
+      "file": "098db.svg"
+    },
+    {
+      "char": "漢",
+      "file": "06f22.svg"
+    },
+    {
+      "char": "移",
+      "file": "079fb.svg"
+    },
+    {
+      "char": "深",
+      "file": "06df1.svg"
+    },
+    {
+      "char": "悲",
+      "file": "060b2.svg"
+    },
+    {
+      "char": "朝",
+      "file": "0671d.svg"
+    },
+    {
+      "char": "染",
+      "file": "067d3.svg"
+    },
+    {
+      "char": "炭",
+      "file": "070ad.svg"
+    },
+    {
+      "char": "閉",
+      "file": "09589.svg"
+    },
+    {
+      "char": "刻",
+      "file": "0523b.svg"
+    },
+    {
+      "char": "暗",
+      "file": "06697.svg"
+    },
+    {
+      "char": "次",
+      "file": "06b21.svg"
+    },
+    {
+      "char": "期",
+      "file": "0671f.svg"
+    },
+    {
+      "char": "班",
+      "file": "073ed.svg"
+    },
+    {
+      "char": "歴",
+      "file": "06b74.svg"
+    },
+    {
+      "char": "詞",
+      "file": "08a5e.svg"
+    },
+    {
+      "char": "密",
+      "file": "05bc6.svg"
+    },
+    {
+      "char": "群",
+      "file": "07fa4.svg"
+    },
+    {
+      "char": "誌",
+      "file": "08a8c.svg"
+    },
+    {
+      "char": "詩",
+      "file": "08a69.svg"
+    },
+    {
+      "char": "鳴",
+      "file": "09cf4.svg"
+    },
+    {
+      "char": "停",
+      "file": "0505c.svg"
+    },
+    {
+      "char": "対",
+      "file": "05bfe.svg"
+    },
+    {
+      "char": "状",
+      "file": "072b6.svg"
+    },
+    {
+      "char": "折",
+      "file": "06298.svg"
+    },
+    {
+      "char": "祖",
+      "file": "07956.svg"
+    },
+    {
+      "char": "価",
+      "file": "04fa1.svg"
+    },
+    {
+      "char": "高",
+      "file": "09ad8.svg"
+    },
+    {
+      "char": "信",
+      "file": "04fe1.svg"
+    },
+    {
+      "char": "指",
+      "file": "06307.svg"
+    },
+    {
+      "char": "蚕",
+      "file": "08695.svg"
+    },
+    {
+      "char": "配",
+      "file": "0914d.svg"
+    },
+    {
+      "char": "球",
+      "file": "07403.svg"
+    },
+    {
+      "char": "油",
+      "file": "06cb9.svg"
+    },
+    {
+      "char": "党",
+      "file": "0515a.svg"
+    },
+    {
+      "char": "金",
+      "file": "091d1.svg"
+    },
+    {
+      "char": "承",
+      "file": "0627f.svg"
+    },
+    {
+      "char": "派",
+      "file": "06d3e.svg"
+    },
+    {
+      "char": "間",
+      "file": "09593.svg"
+    },
+    {
+      "char": "届",
+      "file": "05c4a.svg"
+    },
+    {
+      "char": "黄",
+      "file": "09ec4.svg"
+    },
+    {
+      "char": "電",
+      "file": "096fb.svg"
+    },
+    {
+      "char": "頂",
+      "file": "09802.svg"
+    },
+    {
+      "char": "楽",
+      "file": "0697d.svg"
+    },
+    {
+      "char": "帳",
+      "file": "05e33.svg"
+    },
+    {
+      "char": "福",
+      "file": "0798f.svg"
+    },
+    {
+      "char": "捨",
+      "file": "06368.svg"
+    },
+    {
+      "char": "絵",
+      "file": "07d75.svg"
+    },
+    {
+      "char": "師",
+      "file": "05e2b.svg"
+    },
+    {
+      "char": "順",
+      "file": "09806.svg"
+    },
+    {
+      "char": "就",
+      "file": "05c31.svg"
+    },
+    {
+      "char": "集",
+      "file": "096c6.svg"
+    },
+    {
+      "char": "婦",
+      "file": "05a66.svg"
+    },
+    {
+      "char": "風",
+      "file": "098a8.svg"
+    },
+    {
+      "char": "乳",
+      "file": "04e73.svg"
+    },
+    {
+      "char": "骨",
+      "file": "09aa8.svg"
+    },
+    {
+      "char": "借",
+      "file": "0501f.svg"
+    },
+    {
+      "char": "様",
+      "file": "069d8.svg"
+    },
+    {
+      "char": "育",
+      "file": "080b2.svg"
+    },
+    {
+      "char": "室",
+      "file": "05ba4.svg"
+    },
+    {
+      "char": "皇",
+      "file": "07687.svg"
+    },
+    {
+      "char": "鳥",
+      "file": "09ce5.svg"
+    },
+    {
+      "char": "待",
+      "file": "05f85.svg"
+    },
+    {
+      "char": "泉",
+      "file": "06cc9.svg"
+    },
+    {
+      "char": "帰",
+      "file": "05e30.svg"
+    },
+    {
+      "char": "減",
+      "file": "06e1b.svg"
+    },
+    {
+      "char": "晩",
+      "file": "06669.svg"
+    },
+    {
+      "char": "延",
+      "file": "05ef6.svg"
+    },
+    {
+      "char": "妹",
+      "file": "059b9.svg"
+    },
+    {
+      "char": "細",
+      "file": "07d30.svg"
+    },
+    {
+      "char": "君",
+      "file": "0541b.svg"
+    },
+    {
+      "char": "測",
+      "file": "06e2c.svg"
+    },
+    {
+      "char": "異",
+      "file": "07570.svg"
+    },
+    {
+      "char": "属",
+      "file": "05c5e.svg"
+    },
+    {
+      "char": "姿",
+      "file": "059ff.svg"
+    },
+    {
+      "char": "委",
+      "file": "059d4.svg"
+    },
+    {
+      "char": "幹",
+      "file": "05e79.svg"
+    },
+    {
+      "char": "我",
+      "file": "06211.svg"
+    },
+    {
+      "char": "視",
+      "file": "08996.svg"
+    },
+    {
+      "char": "情",
+      "file": "060c5.svg"
+    },
+    {
+      "char": "票",
+      "file": "07968.svg"
+    },
+    {
+      "char": "装",
+      "file": "088c5.svg"
+    },
+    {
+      "char": "寒",
+      "file": "05bd2.svg"
+    },
+    {
+      "char": "側",
+      "file": "05074.svg"
+    },
+    {
+      "char": "放",
+      "file": "0653e.svg"
+    },
+    {
+      "char": "得",
+      "file": "05f97.svg"
+    },
+    {
+      "char": "秋",
+      "file": "079cb.svg"
+    },
+    {
+      "char": "動",
+      "file": "052d5.svg"
+    },
+    {
+      "char": "差",
+      "file": "05dee.svg"
+    },
+    {
+      "char": "恩",
+      "file": "06069.svg"
+    },
+    {
+      "char": "積",
+      "file": "07a4d.svg"
+    },
+    {
+      "char": "域",
+      "file": "057df.svg"
+    },
+    {
+      "char": "畑",
+      "file": "07551.svg"
+    },
+    {
+      "char": "清",
+      "file": "06e05.svg"
+    },
+    {
+      "char": "看",
+      "file": "0770b.svg"
+    },
+    {
+      "char": "魚",
+      "file": "09b5a.svg"
+    },
+    {
+      "char": "度",
+      "file": "05ea6.svg"
+    },
+    {
+      "char": "効",
+      "file": "052b9.svg"
+    },
+    {
+      "char": "能",
+      "file": "080fd.svg"
+    },
+    {
+      "char": "短",
+      "file": "077ed.svg"
+    },
+    {
+      "char": "温",
+      "file": "06e29.svg"
+    },
+    {
+      "char": "訳",
+      "file": "08a33.svg"
+    },
+    {
+      "char": "展",
+      "file": "05c55.svg"
+    },
+    {
+      "char": "律",
+      "file": "05f8b.svg"
+    },
+    {
+      "char": "役",
+      "file": "05f79.svg"
+    },
+    {
+      "char": "秘",
+      "file": "079d8.svg"
+    },
+    {
+      "char": "郷",
+      "file": "090f7.svg"
+    },
+    {
+      "char": "考",
+      "file": "08003.svg"
+    },
+    {
+      "char": "商",
+      "file": "05546.svg"
+    },
+    {
+      "char": "景",
+      "file": "0666f.svg"
+    },
+    {
+      "char": "続",
+      "file": "07d9a.svg"
+    },
+    {
+      "char": "番",
+      "file": "0756a.svg"
+    },
+    {
+      "char": "服",
+      "file": "0670d.svg"
+    },
+    {
+      "char": "時",
+      "file": "06642.svg"
+    },
+    {
+      "char": "背",
+      "file": "080cc.svg"
+    },
+    {
+      "char": "準",
+      "file": "06e96.svg"
+    },
+    {
+      "char": "貯",
+      "file": "08caf.svg"
+    },
+    {
+      "char": "客",
+      "file": "05ba2.svg"
+    },
+    {
+      "char": "持",
+      "file": "06301.svg"
+    },
+    {
+      "char": "敗",
+      "file": "06557.svg"
+    },
+    {
+      "char": "貨",
+      "file": "08ca8.svg"
+    },
+    {
+      "char": "常",
+      "file": "05e38.svg"
+    },
+    {
+      "char": "然",
+      "file": "07136.svg"
+    },
+    {
+      "char": "笑",
+      "file": "07b11.svg"
+    }
+  ]
+}
